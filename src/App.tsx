@@ -3,6 +3,7 @@ import { ArrowRight, Check, MapPin, Phone, Mail } from 'lucide-react';
 import { Navbar } from './components/Navbar';
 import { ResilientImage } from './components/ResilientImage';
 import heroImg from './assets/images/hero_adelaide_studio_1794824164721.jpg';
+import founderImg from './assets/images/founder_adelaide_consultant_1794824167479.jpg';
 import { RoiEstimator } from './components/RoiEstimator';
 import { ContactForm } from './components/ContactForm';
 import {
@@ -354,7 +355,7 @@ export default function App() {
               >
                 <div className="aspect-[3/4] w-full max-h-[340px] overflow-hidden border-b border-white/[0.08]">
                   <ResilientImage
-                    src="/src/assets/images/founder_adelaide_consultant_1794824167479.jpg"
+                    src={founderImg}
                     alt="Matthew Gallagher, Principal Strategy Director at Elevate Digital SA in Adelaide"
                     fallbackTitle="Matthew Gallagher · Principal Strategist"
                     className="w-full h-full object-cover object-top"
