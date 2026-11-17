@@ -1,6 +1,6 @@
-import stirlingImg from '../../assets/images/stirling_hills_solar_1794824168231.jpg';
-import paradeImg from '../../assets/images/parade_provisions_1794824166249.jpg';
-import coastalImg from '../../assets/images/coastal_care_dental_1794824165381.jpg';
+import stirlingImg from '../assets/images/case_trades_solar_1794824165635.jpg';
+import paradeImg from '../assets/images/case_hospitality_barossa_1794824166324.jpg';
+import coastalImg from '../assets/images/hero_adelaide_studio_1794824164721.jpg';
 export type IndustryFilter =
   | 'all'
   | 'trades'
