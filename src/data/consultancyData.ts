@@ -170,7 +170,7 @@ export const CASE_STUDIES: CaseStudy[] = [
       'Relied heavily on word-of-mouth and expensive national aggregator leads that were shared with four competing electricians.',
     execution:
       'Replaced aggregator spend with dedicated Adelaide Hills battery-rebate landing pages, exact-match Google Search campaigns, and ServiceM8 missed-call SMS recovery.',
-    imageSrc: '/src/assets/images/case_trades_solar_1794824165635.jpg',
+    imageSrc: stirlingImg,
     imageAlt: 'South Australian solar electrician reviewing plans on a rugged tablet beside a work ute in the Adelaide Hills',
     quote: {
       text: 'Before working with Elevate Digital SA, we were paying for shared leads that turned into price-shopping headaches. Within 90 days our phone rang with exclusive Hills homeowners ready to book site inspections, adding two full-time sparkies to the crew.',
@@ -190,7 +190,7 @@ export const CASE_STUDIES: CaseStudy[] = [
       'Strong weekend foot traffic on The Parade, but quiet Tuesday-to-Thursday corporate catering bookings and low visibility for local gift hampers.',
     execution:
       'Built a dedicated Adelaide CBD and Eastern Suburbs corporate catering funnel, optimised Google Maps for local office searches, and deployed QR review cards at the counter.',
-    imageSrc: '/src/assets/images/case_hospitality_barossa_1794824166324.jpg',
+    imageSrc: paradeImg,
     imageAlt: 'Bustling contemporary cafe and specialty provisions counter in Norwood Adelaide during morning service',
     quote: {
       text: 'They understood Norwood and Adelaide corporate buyers immediately. Our mid-week catering calendar went from unpredictable to booked two weeks ahead, and our Google rating jumped from 4.3 to 4.9 stars.',
@@ -210,7 +210,7 @@ export const CASE_STUDIES: CaseStudy[] = [
       'General dental searches were saturated by corporate chains, leaving high-margin implant and Invisalign chairs underutilised.',
     execution:
       'Restructured the website around calm practitioner authority pages, suburb-focused search campaigns across Henley, Grange, and West Lakes, and online Cliniko booking integration.',
-    imageSrc: '/src/assets/images/hero_adelaide_studio_1794824164721.jpg',
+    imageSrc: coastalImg,
     imageAlt: 'Strategic digital marketing planning session in Adelaide studio overlooking eucalyptus parklands',
     quote: {
       text: 'Every metric Elevate Digital SA reports is tied to real patients sitting in the chair. Our cost per consultation dropped by 38% while our implant case acceptance climbed steadily.',
