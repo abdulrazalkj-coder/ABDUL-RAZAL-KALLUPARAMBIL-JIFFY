@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { ArrowRight, Check, MapPin, Phone, Mail } from 'lucide-react';
 import { Navbar } from './components/Navbar';
 import { ResilientImage } from './components/ResilientImage';
+import heroImg from './assets/images/hero_adelaide_studio_1794824164721.jpg';
 import { RoiEstimator } from './components/RoiEstimator';
 import { ContactForm } from './components/ContactForm';
 import {
@@ -92,9 +93,8 @@ export default function App() {
               {/* Hero Studio Visual */}
               <div className="lg:col-span-6 relative rounded-xl overflow-hidden border border-white/[0.08] min-h-[300px] lg:min-h-[440px]">
                 <ResilientImage
-                  src="/src/assets/images/hero_adelaide_studio_1794824164721.jpg"
-                  alt="Elevate Digital SA consultancy strategy meeting in Adelaide overlooking eucalyptus parklands"
-                  fallbackTitle="Adelaide Growth Strategy Studio"
+                  src={heroImg}
+    alt="Elevate Digital SA consultancy strategy meeting..."
                   className="w-full h-full lg:h-full object-cover"
                 />
                 <div
